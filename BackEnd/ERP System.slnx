@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ERP System/API_ERP_Layer.csproj" />
+  <Project Path="ERP_BusinessAccess_Layer/ApplicationLayer.csproj" />
+  <Project Path="ERP_DataAccess_Layer/InfrastructureLayer.csproj" />
+  <Project Path="ERP_Dtos_Layer/DominLayer.csproj" />
+</Solution>
